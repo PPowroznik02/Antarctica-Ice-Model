@@ -1,5 +1,4 @@
 # Antarctica Ice Model
-
 ## Overview
 
 This project includes a detailed report and an R script for creating a mathematical model to analyze changes in sea ice range on Antarctica between 1978 and 2009. Additionally, it features an animation that illustrates the modeled ice range in comparison with actual observational data.
